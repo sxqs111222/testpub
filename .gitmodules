@@ -1,3 +1,6 @@
 [submodule "project-subgroup1"]
 	path = project-subgroup1
 	url = http://www.git.digienh.com/group1/subgroup1/project-subgroup1.git
+[submodule "project-subgroup2"]
+	path = project-subgroup2
+	url = http://www.git.digienh.com/group1/subgroup2/project-subgroup2.git
